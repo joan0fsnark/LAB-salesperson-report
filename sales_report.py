@@ -31,4 +31,4 @@ for line in f:
 # for each person in salespeople
 for i in range(len(salespeople)):
     # print <person> sold <amount of> melons'
-    print(f'{salespeople[i]} sold {melons_sold[i]} melons')
+    print(f'{salespeople[i]} sold {melons_sold[i]} melons!')
